@@ -46,6 +46,8 @@ group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'draft_generators', github: 'firstdraft/draft_generators', branch: 'winter-2020'
+  gem 'rufo'
+  gem 'htmlbeautifier'
 end
 
 group :test do
