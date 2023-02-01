@@ -6,5 +6,29 @@
 body {
   background-color: #F0F6F1;
   font-family: 'Varela Round', sans-serif;
+  display: ;
+  justify-content: center;
 }
 
+.container {
+  margin: auto;
+  width: 700px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+a.playlink {
+  color: #657468;
+}
+
+a.playlink:hover {
+  color: #213926;
+  text-decoration: none;
+}
