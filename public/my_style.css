@@ -6,8 +6,6 @@
 body {
   background-color: #F0F6F1;
   font-family: 'Varela Round', sans-serif;
-  display: ;
-  justify-content: center;
 }
 
 .container {
@@ -22,6 +20,15 @@ body {
 .row {
   display: flex;
   justify-content: space-between;
+}
+
+.images {
+
+}
+
+.history {
+  margin: auto;
+  width: 100%;
 }
 
 a.playlink {
