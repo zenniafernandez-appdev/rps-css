@@ -1,4 +1,31 @@
 body {
-  background-color: #f0f0f0;
+  background-color: #faf8f8;
   font-family: 'Varela Round', sans-serif;
+}
+
+img {
+  width: 400px;
+  border: 1px solid #277575;
+  background-color: #ffffff;
+}
+
+.container {
+  width: 400px;
+  padding-top: 25px;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #277575; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
